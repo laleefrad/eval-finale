@@ -1,0 +1,15 @@
+body {
+    padding-top: 5rem;
+}
+
+
+.bg-Indigo {
+    background-color: darkorchid;
+}
+.bg-Indogo a { 
+    color: rgb(88, 134, 67) !important;
+}
+
+.haut{
+    background-color: blueviolet;
+}
